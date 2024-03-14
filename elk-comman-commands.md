@@ -76,7 +76,7 @@ PUT /_cluster/settings
 <h2>Create Index</h2>
 PUT /index-name
 
-<h2>Reindex<h2>
+<h2>Reindex</h2>
 Combine multiple indices into a single index
 
 POST _reindex
