@@ -1,10 +1,11 @@
 <h2>Check the Cluster Status</h2>
 Command: GET _cluster/health
-<br>
-![](./images/1.PNG)
+
+<br>![](./images/1.PNG)
 
 <h2>Check the Cluster Settings</h2>
 Command: GET /_cluster/settings
+
 <br>![](./images/2.PNG)
 
 <h2>Check the Cluster Settings including default settings
