@@ -13,7 +13,9 @@ Command: GET _cluster/settings?include_defaults
 
 <h2>To see all the shards in nodes<h2> 
 Command: GET _cat/shards?v
+
 <br>![](./images/3.PNG)
+
 index: index name
 prirep: indicate whether it's a primary or replica shard
 state: show the state of the shards
@@ -27,7 +29,9 @@ command: GET index_name/_settings?pretty
 
 <h2>To see all the indices in the cluster with details</h2>
 command: GET _cat/indices?v
+
 <br>![](./images/4.PNG)
+
 health: Health of index (green,yellow,red)
 status: open or close
 index: index name
