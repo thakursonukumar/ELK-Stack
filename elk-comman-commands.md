@@ -8,10 +8,10 @@ Command: GET /_cluster/settings
 
 <br>![](./images/2.PNG)
 
-<h2>Check the Cluster Settings including default settings
+<h2>Check the Cluster Settings including default settings</h2>
 Command: GET _cluster/settings?include_defaults
 
-<h2>To see all the shards in nodes<h2> 
+<h2>To see all the shards in nodes</h2> 
 Command: GET _cat/shards?v
 
 <br>![](./images/3.PNG)
